@@ -1,4 +1,4 @@
 - Hi, I’m @DSChebotarev
-- I’m interested in programming gaming
+- I’m interested in programming and gaming
 - I’m currently learning C++ and HTML
 - How to reach me: DSChebotarev20@codingburgas.bg
