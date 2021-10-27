@@ -4,7 +4,7 @@
 <ul>
   <li>I'm interested in programming and gaming</li>
   <li>Currently learning: C++, HTML and CSS</li>
-  <li>How to reach me: DSChebotarev20@codingburgas.bg</li>
+  <li>How to reach me: <a href ="mailto:DSChebotarev20@codingburgas.bg">DSChebotarev20@codingburgas.bg</a></li>
 </ul>
 
 <h3 align="left">Languages and Tools:</h3>
