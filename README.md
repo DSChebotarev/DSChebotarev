@@ -2,6 +2,7 @@
 <h3 align="center">I'm Daniil, a frontend learner from Bulgaria.</h3>
 <br>
 <ul>
+  <li>15 years old</li>
   <li>Student of VSCPI Brugas</li>
   <li>Interested in programming and gaming</li>
   <li>Currently learning: C++, HTML and CSS</li>
