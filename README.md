@@ -1,3 +1,9 @@
+<style>
+ul{
+  
+  }
+</style>
+
 <h1>Welcome To My Profile 👋</h1>
 <ul>
   <li>Hi, I’m @DSChebotarev</li>
