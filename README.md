@@ -1,5 +1,6 @@
 <h1 align="center">Welcome To My Profile 👋</h1>
-<h3 align="center">I'm Daniil, a frontend learner from Bulgaria</h3>
+<h3 align="center">I'm Daniil, a frontend learner from Bulgaria.</h3>
+<br>
 <ul>
   <li>I'm interested in programming and gaming</li>
   <li>Currently learning: C++, HTML and CSS</li>
